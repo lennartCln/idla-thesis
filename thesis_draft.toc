@@ -1,0 +1,35 @@
+\thispagestyle {empty}
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {subsection}{\numberline {1.1}Model and Result}{1}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}A Brief History of IDLA Shape Results}{2}{subsection.1.2}
+\contentsline {subsection}{\numberline {1.3}Early and Late Points}{3}{subsection.1.3}
+\contentsline {subsection}{\numberline {1.4}Proof Sketch}{5}{subsection.1.4}
+\contentsline {section}{\numberline {2}Preliminaries}{7}{section.2}
+\contentsline {subsection}{\numberline {2.1}Brownian Motions}{7}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Martingales}{9}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Discrete Potential Theory}{11}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Potential Theory in Continuum}{15}{subsection.2.4}
+\contentsline {subsubsection}{\numberline {2.4.1}Harmonic Analysis}{15}{subsubsection.2.4.1}
+\contentsline {subsubsection}{\numberline {2.4.2}Poisson Kernel for the Ball}{15}{subsubsection.2.4.2}
+\contentsline {paragraph}{Step 1.}{21}{section*.6}
+\contentsline {paragraph}{Step 2.}{23}{section*.8}
+\contentsline {section}{\numberline {3}Stochastic Analysis on the Grid}{26}{section.3}
+\contentsline {subsection}{\numberline {3.1}Grid-Harmonic Functions}{26}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Grid Brownian Motion}{28}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Harmonic Functions of Grid Brownian Motions}{30}{subsection.3.3}
+\contentsline {section}{\numberline {4}Approximating Discrete Poisson Kernel}{37}{section.4}
+\contentsline {section}{\numberline {5}Grid IDLA}{44}{section.5}
+\contentsline {subsection}{\numberline {5.1}Definition}{44}{subsection.5.1}
+\contentsline {subsection}{\numberline {5.2}Main Martingale}{45}{subsection.5.2}
+\contentsline {section}{\numberline {6}Logarithmic Fluctuations}{48}{section.6}
+\contentsline {subsection}{\numberline {6.1}Proof of Theorem \ref {log fluctuation}}{48}{subsection.6.1}
+\contentsline {section}{\numberline {7}Detect Early and Late Points}{53}{section.7}
+\contentsline {subsection}{\numberline {7.1}Quadratic Variation Bounds}{53}{subsection.7.1}
+\contentsline {subsection}{\numberline {7.2}No Thin Tentacles}{54}{subsection.7.2}
+\contentsline {subsection}{\numberline {7.3}Proof: Early Points Imply Late Points}{55}{subsection.7.3}
+\contentsline {subsection}{\numberline {7.4}Proof: Late Points Imply Early Points}{60}{subsection.7.4}
+\contentsline {subsection}{\numberline {7.5}Proof: Quadratic Variation Bounds}{63}{subsection.7.5}
+\contentsline {subsection}{\numberline {7.6}Proof: No Very Late Point}{68}{subsection.7.6}
+\contentsline {section}{Index of Notation}{71}{equation.7.26}
+\contentsline {section}{References}{72}{section*.18}
+\contentsline {section}{Erkl\IeC {\"a}rung}{75}{section*.18}
