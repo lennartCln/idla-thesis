@@ -1,0 +1,10 @@
+/.vscode
+*.aux
+*.bbl
+*.blg
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.tex.bak
+*.toc
